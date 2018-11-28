@@ -48,7 +48,7 @@ Lo podemos incluir mediante la etiqueta "<script>"
 
 ### ¿Que diferencia hay entre una clase y una id?
 ```html
-Principalmente su simbolo id: "." y class: "#", id es un elemento único mientras que class puede usarse las veces que quieras.
+Principalmente su simbolo id: "#" y class: ".", id es un elemento único mientras que class puede usarse las veces que quieras.
 ```
 
 ### Código para hacer un enlace a otra página y que esta se abra en una nueva ventana
