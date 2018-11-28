@@ -93,3 +93,4 @@ a[class] { color: blue; } : Afectará a todo lo que tenga esa clase y tendrá co
 a[class="externo"] { color: blue; } : Afectará a la clase "externo" y lo pondrá de color azul
 a[href="http://www.ejemplo.com"] { color: blue; } : Afectará la dirección web y le pondrá color azul.
 ```
+
